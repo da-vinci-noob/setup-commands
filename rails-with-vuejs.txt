@@ -1,0 +1,11 @@
+# Add Vue Router for working with routes in VueJS
+yarn add vue-router
+
+# Add router-view in app.vue
+content in (files/app.vue)
+
+# Add in main.js
+content in (files/main.js)
+
+# Add router configuration in app/javascript/packs/router/index.js
+content in (files/router.index.js)
